@@ -24,6 +24,10 @@ namespace Exam_API.Model
         {
             var files = Directory.GetFiles("Saves");
             var lastId = 0;
+            if (files.Length == 0)
+            {
+                return lastId = 0;
+            }
             foreach (var file in files)
             {
                 var id = int.Parse(file.Split('_')[1].Split('.')[0]);
