@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam-API", "Exam-API\Exam-API.csproj", "{78A18C38-F583-4AB0-A680-E758B9397321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{D0C900C5-E5C7-486B-BC91-70C958D6EA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A18C38-F583-4AB0-A680-E758B9397321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A18C38-F583-4AB0-A680-E758B9397321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A18C38-F583-4AB0-A680-E758B9397321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A18C38-F583-4AB0-A680-E758B9397321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C900C5-E5C7-486B-BC91-70C958D6EA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C900C5-E5C7-486B-BC91-70C958D6EA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C900C5-E5C7-486B-BC91-70C958D6EA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C900C5-E5C7-486B-BC91-70C958D6EA23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
